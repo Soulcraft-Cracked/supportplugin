@@ -1,0 +1,10 @@
+main: yt.livplays.upport.Support
+name: Support
+version: 1.0
+author: livPlaysYT
+description: -no desc-
+website: http://soulcraft-cracked.de/
+commands:
+  support:
+    usage: /<command> <Supportnachricht>
+    description: Schreibt eine Hilfe- oder Supportnachricht in den Supportchat. Teammitglieder sind am roten Namen erkennbar.
